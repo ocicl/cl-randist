@@ -1,0 +1,9 @@
+* cl-randist
+
+Random number generation for common lisp
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/lvaruzza/cl-randist.git |
+| commit  | 7b91ddd                                        |
+| systems | cl-randist                                     |
+|---------+------------------------------------------------|
